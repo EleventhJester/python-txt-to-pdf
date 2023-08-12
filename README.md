@@ -1,9 +1,14 @@
 # python-txt-to-pdf
 A Text file to PDF converter because i needed it at the time.
 
-Simply edit the text file you would like to convert on line 7 (with the name of your text file)
+Simply edit the text file you would like to convert to pdf.
 
-run the program in your terminal: 
+
+run the program in your terminal:
+
+add the reportlab library to this file.
+
+pip install reportlab
 
 python .\example.txt.py 
 
